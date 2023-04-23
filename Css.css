@@ -1,0 +1,65 @@
+body{
+    background: url("Tivolt.jfif") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+#Merch{
+    font-size: large;
+    font-weight: bold;
+    float: left;
+    text-decoration: none;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+#Socialki{
+    font-size: large;
+    font-weight: bold;
+    float: left;
+    text-decoration: none;
+    margin-right: 24%;
+    margin-left:24%
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#KalendarzGier{
+    font-size: large;
+    font-weight: bold;
+    float: right;
+    text-decoration: none;
+    
+}
+td{
+    border: 1px solid white;
+    border-radius: 15px;
+    
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+tr{
+    margin: 20px;
+}
+.social{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    border: 1px solid white;
+    border-radius: 15px;
+    width: 30%;
+    padding: 2px;
+    height: 35px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    font-size: xx-large;
+}
