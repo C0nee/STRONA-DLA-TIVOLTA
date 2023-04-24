@@ -1,0 +1,87 @@
+
+  
+  header {
+    background-color: darkblue;
+    color: #fff;
+    padding: 10px;
+    height: 45%;
+  }
+  
+ 
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+ 
+  .kontener {
+    margin: 20px auto;
+    width: 100%;
+    
+  }
+  
+ 
+  .produkt {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    float: left;
+    width: 30%;
+  }
+  #buty{
+    float: right;
+  }
+  footer{
+    
+    position: fixed;
+            padding: 10px 10px 0px 10px;
+            bottom: 0;
+            width: 100%;
+          color: white;
+            height: 40px;
+            background: darkblue;
+  }
+  h1{
+    text-align: center;
+  }
+  #Merch{
+    font-size: large;
+    font-weight: bold;
+    float: left;
+    text-decoration: none;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+#Socialki{
+    font-size: large;
+    font-weight: bold;
+    float: left;
+    text-decoration: none;
+    margin-right: 20%;
+    margin-left:auto;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#KalendarzGier{
+    font-size: large;
+    font-weight: bold;
+    float: right;
+    text-decoration: none;
+    margin-left: auto ;
+    margin-right: 15%;
+}
+ #TAK{
+  display: flex;
+  justify-content: flex-end;
+ }
